@@ -11,15 +11,11 @@ Despite technological strides, the scarcity of high-quality images for varied sk
 
 
 ### Features
-Integration of dermatoscopy with advanced neural networks.
-
-Utilization of convolutional neural networks (CNNs) for automated diagnosis.
-
-Extensive and diverse dataset (HAM10000) with over 10,000 images.
-
-Coverage of essential diagnostic categories like actinic keratoses, basal cell carcinoma, and melanoma.
-
-Ground truth for lesions confirmed through various methods including histopathology.
+1. Integration of dermatoscopy with advanced neural networks.
+2. Utilization of convolutional neural networks (CNNs) for automated diagnosis.
+3. Extensive and diverse dataset (HAM10000) with over 10,000 images.
+4. Coverage of essential diagnostic categories like actinic keratoses, basal cell carcinoma, and melanoma.
+5. Ground truth for lesions confirmed through various methods including histopathology.
 
 
 ### Dataset
