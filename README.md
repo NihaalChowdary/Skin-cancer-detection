@@ -2,6 +2,7 @@
 # SKIN CANCER DETECTION
 The "SKIN CANCER DETECTION" project integrates dermatoscopy with advanced neural networks to enhance automated diagnosis of skin conditions. Drawing inspiration from a 1994 study on melanoma-mole differentiation, our project overcomes limitations by utilizing a more diverse dataset and modern deep learning techniques, especially convolutional neural networks (CNNs). Despite technological advancements, the project highlights the critical challenge of a limited supply of high-quality images for training precise diagnostic computer programs in the realm of skin diseases.
 
+![img alt](https://github.com/NihaalChowdary/Skin-cancer-detection/blob/53a9ae0c1b5f9e4c96b0d76d5b6d535c67991a4b/skin%20images.png)
 
 ### Introduction
 Our SKIN CANCER DETECTION project involves integrating dermatoscopy, a technique for detailed skin lesion examination, with advanced neural networks to automate diagnosis. Dermatoscopy offers high-quality images for machine learning training. While a 1994 study used dermatoscopic images for melanoma-mole differentiation, limitations like a small dataset persist. Our project addresses this by expanding with a more diverse dataset and modern deep learning, especially convolutional neural networks (CNNs).
