@@ -4,6 +4,17 @@ The "SKIN CANCER DETECTION" project integrates dermatoscopy with advanced neural
 
 ![img alt](https://github.com/NihaalChowdary/Skin-cancer-detection/blob/53a9ae0c1b5f9e4c96b0d76d5b6d535c67991a4b/skin%20images.png)
 
+## Table of Contents
+1. [Introduction](#introduction)
+   - [overview](#overview)
+   - [objective](#objective)
+   - [significance](#significance)
+2. [Dataset](#dataset)
+   - [Data Quality and Ground Truth](#Quality)
+3. [Features](#features)
+4. [Model Architecture](#architecture)
+
+   
 ## Introduction
 
 ### Overview
@@ -17,6 +28,11 @@ In 1994, a study utilized dermatoscopic images for melanoma-mole differentiation
 ### Objective
 
 The primary objective of the **Skin Cancer Detection** project is to develop a robust, automated diagnostic system that can accurately differentiate between various skin conditions using dermatoscopic images. By enhancing the dataset diversity and employing state-of-the-art deep learning models, we aim to create a reliable tool for early skin cancer detection.
+
+### Significance
+
+By integrating dermatoscopy with advanced neural networks and utilizing a diverse dataset, this project aims to significantly improve the accuracy and reliability of automated skin cancer diagnosis. This has the potential to enhance early detection, reduce diagnostic errors, and ultimately improve patient outcomes in dermatology.
+
 
 ### Dataset
 
@@ -37,9 +53,6 @@ The HAM10000 dataset includes over 50% of lesions confirmed through histopatholo
 
 While the test set remains non-public, an evaluation server ensures fair method comparisons using the official test set on the challenge website. This fosters standardized assessments in the development of automated pigmented skin lesion diagnosis, promoting transparency and comparability of different methodologies.
 
-### Significance
-
-By integrating dermatoscopy with advanced neural networks and utilizing a diverse dataset, this project aims to significantly improve the accuracy and reliability of automated skin cancer diagnosis. This has the potential to enhance early detection, reduce diagnostic errors, and ultimately improve patient outcomes in dermatology.
 
 ## Features
 
@@ -49,3 +62,5 @@ By integrating dermatoscopy with advanced neural networks and utilizing a divers
 - Coverage of essential diagnostic categories like actinic keratoses, basal cell carcinoma, and melanoma
 - Ground truth for lesions confirmed through various methods, including histopathology
 
+## Architecture
+![Image](https://github.com/NihaalChowdary/Skin-cancer-detection/blob/main/Architecture-of-Inception-v3.png)
